@@ -1,4 +1,4 @@
-package ru.makar.ecj.sample;
+package ru.makar.ecj.tutorials.tutorial1;
 
 import ec.Evolve;
 
@@ -6,7 +6,7 @@ import static ec.Evolve.A_FILE;
 
 public class Main {
 
-    private static final String PARAMS = "src/main/resources/config/params.properties";
+    private static final String PARAMS = "tutorial1/src/main/resources/params.properties";
 
     public static void main(String[] args) {
         Evolve.main(new String[] {A_FILE, PARAMS});

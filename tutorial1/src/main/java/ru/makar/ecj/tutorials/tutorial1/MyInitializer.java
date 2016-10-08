@@ -1,4 +1,4 @@
-package ru.makar.ecj.sample;
+package ru.makar.ecj.tutorials.tutorial1;
 
 import ec.EvolutionState;
 import ec.Initializer;

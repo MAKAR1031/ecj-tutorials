@@ -1,4 +1,4 @@
-package ru.makar.ecj.sample.problem;
+package ru.makar.ecj.tutorials.tutorial1.problem;
 
 import ec.EvolutionState;
 import ec.Individual;
